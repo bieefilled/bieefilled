@@ -36,3 +36,6 @@ bieefilled/bieefilled is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes. or https://linkedin.com/in/samuel-peters-0746b1216
 
 --->
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=bieefilled&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=bieefilled&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
