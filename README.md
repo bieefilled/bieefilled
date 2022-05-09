@@ -5,10 +5,10 @@
 <h3>ABOUT ME</h3>
 
 Building a successful product is a challenge.<br>I am highly energetic in user experience design, interfaces and web development.
-- [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)   [![Linkedin Badge](https://img.shields.io/badge/-bieefilled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-peters-0746b1216/)](https://www.linkedin.com/in/samuel-peters-0746b1216)
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+- 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled) 
+- [![Linkedin Badge](https://img.shields.io/badge/-bieefilled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-peters-0746b1216/)](https://www.linkedin.com/in/samuel-peters-0746b1216)
 
-## ⚡ TOOLS AND TECHNOLOGIES  
+### ⚡ TOOLS AND TECHNOLOGIES  
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -38,6 +38,6 @@ You can click the Preview link to take a look at your changes. or https://linked
 
 --->
  
-  
-
+### Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=bieefilled&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/bieefilled/github-profile-trophy#about-rank)
   
