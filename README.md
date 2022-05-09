@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1aZanEffhCSyVTERRgXhrLiyr1ypQg6nA/view" width="100%" alt="Banner">
+  <img src="https://drive.google.com/uc?id=1aZanEffhCSyVTERRgXhrLiyr1ypQg6nA" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
