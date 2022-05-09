@@ -30,9 +30,9 @@ Building a successful product is a challenge.<br>I am highly energetic in user e
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bieefilled&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bieefilled&hide=TeX&layout=compact)
 
-- 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)  or https://linkedin.com/in/samuel-peters-0746b1216
-
+- 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled) 
 <!---
 bieefilled/bieefilled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. or https://linkedin.com/in/samuel-peters-0746b1216
+
 --->
