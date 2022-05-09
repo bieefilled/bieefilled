@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @bieefilled
-- 👀 I’m interested in Web and Mobile programming
-- 🌱 I’m currently learning Laravel for backend programming
-- 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)  or https://linkedin.com/in/samuel-peters-0746b1216
+<div align="center">
+  <img src="https://drive.google.com/file/d/1aZanEffhCSyVTERRgXhrLiyr1ypQg6nA/view" width="100%" alt="Banner">
+</div>
+
+<h3>ABOUT ME</h3>
+
+Building a successful product is a challenge.<br>I am highly energetic in user experience design, interfaces and web development.
 
 
 ## ⚡ TOOLS AND TECHNOLOGIES  
@@ -27,7 +30,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bieefilled&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bieefilled&hide=TeX&layout=compact)
 
-
+- 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)  or https://linkedin.com/in/samuel-peters-0746b1216
 
 <!---
 bieefilled/bieefilled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
