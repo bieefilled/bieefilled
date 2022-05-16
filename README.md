@@ -8,7 +8,7 @@ Building a successful product is a challenge.<br>I am highly energetic in user e
 
 - 📫 How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/bieefilled)  [![Linkedin Badge](https://img.shields.io/badge/-bieefilled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-peters-0746b1216/)](https://www.linkedin.com/in/samuel-peters-0746b1216)
 
-### ⚡ TOOLS AND TECHNOLOGIES  
+### ⚡ TOOLS AND TECHNOLOGIES USED
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
