@@ -31,6 +31,8 @@ Building a successful product is a challenge.<br>I am highly energetic in user e
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bieefilled&count_private=true&show_icons=true&include_all_commits=true)
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bieefilled)](https://github.com/bieefilled/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bieefilled&hide=TeX&layout=compact)
+[![ streak stats](https://github-readme-streak-stats.herokuapp.com/?user={bieefilled})
+[![ summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={bieefilled}&theme=vue)
 
 
 <!---
