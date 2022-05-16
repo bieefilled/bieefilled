@@ -29,6 +29,7 @@ Building a successful product is a challenge.<br>I am highly energetic in user e
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bieefilled&count_private=true&show_icons=true&include_all_commits=true)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bieefilled)](https://github.com/bieefilled/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bieefilled&hide=TeX&layout=compact)
 
 
